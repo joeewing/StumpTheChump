@@ -1822,7 +1822,7 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 
-   if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.a69e942d-aba2-418d-80a0-b36c528a70ec") {
+   if (event.session.application.applicationId !== "*****") {
          context.fail("Invalid Application ID");
       }
 
