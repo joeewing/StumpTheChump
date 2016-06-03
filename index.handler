@@ -1822,9 +1822,15 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 
+<<<<<<< HEAD
+//     if (event.session.application.applicationId !== "*****") {
+//         context.fail("Invalid Application ID");
+//      }
+=======
    if (event.session.application.applicationId !== "*****") {
          context.fail("Invalid Application ID");
       }
+>>>>>>> origin/EditingKeys
 
         if (event.session.new) {
             onSessionStarted({requestId: event.request.requestId}, event.session);
