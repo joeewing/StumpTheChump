@@ -2,7 +2,7 @@
 
 var questions = [
     {
-"Okay here's a  Baseball question: Who is the baseball player nicknamed Mr. November?": [
+"This is a Baseball question: Who is the baseball player nicknamed Mr. November?": [
 "Derek Jeter",
 "Robinson Cano",
 "Alexei Ramirez",
@@ -11,7 +11,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who is the baseball player nicknamed Caveman?": [
+"This is a Baseball question: Who is the baseball player nicknamed Caveman?": [
 "Johnny Damon",
 "Mark Trumbo",
 "Albert Pujols",
@@ -20,7 +20,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Ichiro Suzuki recorded his 2500th MLB hit in 2012, which team, prior to the Yankees, did he play for?": [
+"This is a Baseball question: Ichiro Suzuki recorded his 2500th MLB hit in 2012, which team, prior to the Yankees, did he play for?": [
 "Mariners",
 "Dodgers",
 "Red Sox",
@@ -29,7 +29,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: When Bartolo Colon won the 2005 Cy Young Award pitching for which team?": [
+"This is a Baseball question: When Bartolo Colon won the 2005 Cy Young Award pitching for which team?": [
 "Los Angeles",
 "Arizona",
 "Boston",
@@ -38,7 +38,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Whose outstanding play earned him the MVP of the ALCS in 2010?": [
+"This is a Baseball question: Whose outstanding play earned him the MVP of the ALCS in 2010?": [
 "Josh Hamilton",
 "David Justice",
 "Matt Garza",
@@ -47,7 +47,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which orange juice company gave its name to the Tampa Bay Devil Rays' stadium?": [
+"This is a Baseball question: Which orange juice company gave its name to the Tampa Bay Devil Rays' stadium?": [
 "Tropicana",
 "Minute Maid",
 "Donald Duck",
@@ -56,7 +56,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What's the name of the area of the ballpark where pitchers warm up?": [
+"This is a Baseball question: What's the name of the area of the ballpark where pitchers warm up?": [
 "Bullpen",
 "Warning Track",
 "Cowpen",
@@ -65,7 +65,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which MLB team's logo features a red-colored letter P?": [
+"This is a Baseball question: Which MLB team's logo features a red-colored letter P?": [
 "Philadelphia Phillies",
 "Pittsburgh Pirates",
 "San Diego Padres",
@@ -74,7 +74,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What city is home to Major League Baseball's Athletics?": [
+"This is a Baseball question: What city is home to Major League Baseball's Athletics?": [
 "Oakland",
 "Boston",
 "Tulsa",
@@ -83,7 +83,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What was Derek Jeter's 3000th hit?": [
+"This is a Baseball question: What was Derek Jeter's 3000th hit?": [
 "Home Run",
 "Single",
 "Double",
@@ -92,7 +92,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which Chicago Cub became their third 3rd baseman to reach 100 RBIs in a season?": [
+"This is a Baseball question: Which Chicago Cub became their third 3rd baseman to reach 100 RBIs in a season?": [
 "Aramis Ramirez",
 "Ron Cey",
 "Todd Zeile",
@@ -101,7 +101,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who as part of the 2002 Yankees team hit 41 homers and 34 doubles?": [
+"This is a Baseball question: Who as part of the 2002 Yankees team hit 41 homers and 34 doubles?": [
 "Jason Giambi",
 "Jose Valentin",
 "Adrian Beltre",
@@ -110,7 +110,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which Major League pitcher retired with 5,714 strikeouts in 5,387 innings?": [
+"This is a Baseball question: Which Major League pitcher retired with 5,714 strikeouts in 5,387 innings?": [
 "Nolan Ryan",
 "Walter Johnson",
 "Tom Seaver",
@@ -119,7 +119,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who hit the first grand slam for the Tampa Bay Devil Rays?": [
+"This is a Baseball question: Who hit the first grand slam for the Tampa Bay Devil Rays?": [
 "Paul Sorrento",
 "Wade Boggs",
 "Quinton McCracken",
@@ -128,7 +128,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What player set a San Francisco Giants record in 2001 with 49 doubles?": [
+"This is a Baseball question: What player set a San Francisco Giants record in 2001 with 49 doubles?": [
 "Jeff Kent",
 "Barry Bonds",
 "Rich Aurilia",
@@ -137,7 +137,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What's the name for a ball which is misplayed or misthrown by a fielder?": [
+"This is a Baseball question: What's the name for a ball which is misplayed or misthrown by a fielder?": [
 "Error",
 "No-Hitter",
 "Wrongdoing",
@@ -146,7 +146,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which Los Angeles Dodger hit .417 during the 1981 MLB World Series?": [
+"This is a Baseball question: Which Los Angeles Dodger hit .417 during the 1981 MLB World Series?": [
 "Steve Garvey",
 "Dusty Baker",
 "Steve Sax",
@@ -155,7 +155,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who led the Cleveland Indians in hits for the 2005 MLB season?": [
+"This is a Baseball question: Who led the Cleveland Indians in hits for the 2005 MLB season?": [
 "Grady Sizemore",
 "Ronnie Belliard",
 "Aaron Boone",
@@ -164,7 +164,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: How far did Mark McGwire's record-setting 62nd home run travel?": [
+"This is a Baseball question: How far did Mark McGwire's record-setting 62nd home run travel?": [
 "341 Feet",
 "399 Feet",
 "420 Feet",
@@ -173,7 +173,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which player was known as The Rat?": [
+"This is a Baseball question: Which player was known as The Rat?": [
 "Gary Gaetti",
 "Hank Gowdy",
 "Ron Hunt",
@@ -182,7 +182,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which two players hit 50 or more home runs in 1996?": [
+"This is a Baseball question: Which two players hit 50 or more home runs in 1996?": [
 "Brady Anderson And Mark McGwire",
 "Albert Belle And Barry Bonds",
 "Gary Sheffield And Mark McGwire",
@@ -191,7 +191,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Where did Babe Ruth hit his famous, Called Shot?": [
+"This is a Baseball question: Where did Babe Ruth hit his famous, Called Shot?": [
 "Wrigley Field",
 "Ebbets Field",
 "Shibe Park",
@@ -200,7 +200,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which of these years did a pitcher win the MVP in the National League?": [
+"This is a Baseball question: Which of these years did a pitcher win the MVP in the National League?": [
 "1968",
 "1982",
 "2005",
@@ -209,7 +209,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: How many All-Star Games in the 1990's did Barry Bonds participate in as a San Francisco Giant?": [
+"This is a Baseball question: How many All-Star Games in the 1990's did Barry Bonds participate in as a San Francisco Giant?": [
 "6",
 "4",
 "5",
@@ -218,7 +218,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: How old was Derek Jeter when he got his 3000th hit?": [
+"This is a Baseball question: How old was Derek Jeter when he got his 3000th hit?": [
 "37 Years Old",
 "33 Years Old",
 "32 Years Old",
@@ -227,7 +227,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: In what year was Kansas City Royal George Brett inducted into the MLB Hall of Fame?": [
+"This is a Baseball question: In what year was Kansas City Royal George Brett inducted into the MLB Hall of Fame?": [
 "1999",
 "He Was Never Inducted",
 "1985",
@@ -236,7 +236,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which Boston Red Sox pitcher was named the 2005 Big East Pitcher of the Year?": [
+"This is a Baseball question: Which Boston Red Sox pitcher was named the 2005 Big East Pitcher of the Year?": [
 "Craig Hansen",
 "Mike Timlin",
 "Kyle Snyder",
@@ -245,7 +245,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: When was Jason Giambi the American League MVP?": [
+"This is a Baseball question: When was Jason Giambi the American League MVP?": [
 "2000",
 "2003",
 "2004",
@@ -254,7 +254,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: How much was Roger Clemens fined for a bat-throwing incident at the 2000 World Series?": [
+"This is a Baseball question: How much was Roger Clemens fined for a bat-throwing incident at the 2000 World Series?": [
 "$50,000",
 "$5,000",
 "$100",
@@ -263,7 +263,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What nickname did Satchel Paige call his fastball?": [
+"This is a Baseball question: What nickname did Satchel Paige call his fastball?": [
 "Long Tom",
 "Bat Buzzer",
 "No-Opportunity",
@@ -272,7 +272,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who was the first African-American pitcher in the Major Leagues?": [
+"This is a Baseball question: Who was the first African-American pitcher in the Major Leagues?": [
 "Dan Bankhead",
 "Sam Jethroe",
 "Bob Trice",
@@ -281,7 +281,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who led the Mets in victories in 1992?": [
+"This is a Baseball question: Who led the Mets in victories in 1992?": [
 "Sid Fernandez",
 "Dwight Gooden",
 "David Cone",
@@ -290,7 +290,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What Dodger infielder appeared on the TV show The Brady Bunch?": [
+"This is a Baseball question: What Dodger infielder appeared on the TV show The Brady Bunch?": [
 "Wes Parker",
 "Maury Wills",
 "Bill Russell",
@@ -299,7 +299,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who was Willie Mays favorite pitcher to bat against?": [
+"This is a Baseball question: Who was Willie Mays favorite pitcher to bat against?": [
 "Warren Spahn",
 "Ed Mayer",
 "Johnny Podres",
@@ -308,7 +308,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What is Yogi Berra's full name?": [
+"This is a Baseball question: What is Yogi Berra's full name?": [
 "Lawrence Peter Berra",
 "Timothy John Berra",
 "Erol James Berra",
@@ -317,7 +317,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which of the following hitters batted .403 in 1925?": [
+"This is a Baseball question: Which of the following hitters batted .403 in 1925?": [
 "Rogers Hornsby",
 "Ty Cobb",
 "Blue Moon Odom",
@@ -326,7 +326,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: What was the last year of Joe DiMaggio's career?": [
+"This is a Baseball question: What was the last year of Joe DiMaggio's career?": [
 "1951",
 "1954",
 "1947",
@@ -335,7 +335,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Who was Canada's Male Athlete of the Year in 1993?": [
+"This is a Baseball question: Who was Canada's Male Athlete of the Year in 1993?": [
 "Mark Tewksbury",
 "Tom Ponting",
 "Sandy Goss",
@@ -344,7 +344,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which Major League manager won 3731 games over 53 seasons?": [
+"This is a Baseball question: Which Major League manager won 3731 games over 53 seasons?": [
 "Connie Mack",
 "Leo Durocher",
 "Sparky Anderson",
@@ -353,7 +353,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which pitcher was named AL MVP for 1931 after compiling a 31-4 record?": [
+"This is a Baseball question: Which pitcher was named AL MVP for 1931 after compiling a 31-4 record?": [
 "Lefty Grove",
 "Dizzy Dean",
 "Lefty Gomez",
@@ -362,7 +362,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Baseball question: Which pitcher was the first to win the Cy Young in both leagues?": [
+"This is a Baseball question: Which pitcher was the first to win the Cy Young in both leagues?": [
 "Gaylord Perry",
 "Steve Carlton",
 "Ferguson Jenkins",
@@ -371,7 +371,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What team did 6-11 tall Dwight Howard play for in his rookie season?": [
+"This is a Basketball question: What team did 6-11 tall Dwight Howard play for in his rookie season?": [
 "Orlando",
 "Charlotte",
 "L.A. Clippers",
@@ -380,7 +380,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Paul Pierce and P.J. Brown were on the roster of which team together?": [
+"This is a Basketball question: Paul Pierce and P.J. Brown were on the roster of which team together?": [
 "2007-2008 Boston Celtics",
 "2001-2002 Atlanta Hawks",
 "2007-2008 Indiana Pacers",
@@ -389,7 +389,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Jameer Nelson and Rashard Lewis were part of which team together?": [
+"This is a Basketball question: Jameer Nelson and Rashard Lewis were part of which team together?": [
 "2007-2008 Orlando Magic",
 "2001-2002 Atlanta Hawks",
 "2007-2008 Cleveland Cavaliers",
@@ -398,7 +398,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: On which team did Steve Nash and Raja Bell play for at the same time? ": [
+"This is a Basketball question: On which team did Steve Nash and Raja Bell play for at the same time? ": [
 "2007-2008 Phoenix Suns",
 "2007-2008 Washington Wizards",
 "2001-2002 Miami Heat",
@@ -407,7 +407,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which nickname has Zach Randolph been tagged with?": [
+"This is a Basketball question: Which nickname has Zach Randolph been tagged with?": [
 "Z-Bo",
 "Googs",
 "The Monster",
@@ -416,7 +416,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which team finished 2008-09 with a 2-13 record in-conference in the ACC?": [
+"This is a Basketball question: Which team finished 2008-09 with a 2-13 record in-conference in the ACC?": [
 "Georgia Tech",
 "Virginia Tech",
 "Maryland",
@@ -425,7 +425,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which of these head coaches led the 2012 Philadelphia 76ers?": [
+"This is a Basketball question: Which of these head coaches led the 2012 Philadelphia 76ers?": [
 "Doug Collins",
 "Tyrone Corbin",
 "Byron Scott",
@@ -434,7 +434,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What country was point guard Steve Nash originally from?": [
+"This is a Basketball question: What country was point guard Steve Nash originally from?": [
 "Canada",
 "Russia",
 "Brazil",
@@ -443,7 +443,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: The L.A. Lakers' 2009 NBA title marked how may times Phil Jackson coached an NBA Championship team?": [
+"This is a Basketball question: The L.A. Lakers' 2009 NBA title marked how may times Phil Jackson coached an NBA Championship team?": [
 "10",
 "5",
 "8",
@@ -452,7 +452,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What NBA owner was fined $25,000 in 2009 for criticizing a referee on Twitter?": [
+"This is a Basketball question: What NBA owner was fined $25,000 in 2009 for criticizing a referee on Twitter?": [
 "Mark Cuban",
 "Jerry Buss",
 "Donald Sterling",
@@ -461,7 +461,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What was the record Shaq set for most points in a 4 game NBA Final?": [
+"This is a Basketball question: What was the record Shaq set for most points in a 4 game NBA Final?": [
 "145 Points",
 "120 Points",
 "189 Points",
@@ -470,7 +470,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What position does Allen Iverson play in the NBA?": [
+"This is a Basketball question: What position does Allen Iverson play in the NBA?": [
 "Point Guard",
 "Center",
 "Forward",
@@ -479,7 +479,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who did the Chicago Bulls trade to get Tyson Chandler?": [
+"This is a Basketball question: Who did the Chicago Bulls trade to get Tyson Chandler?": [
 "Elton Brand",
 "Ron Artest",
 "Ron Mercer",
@@ -488,7 +488,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What country was Patrick Ewing born in?": [
+"This is a Basketball question: What country was Patrick Ewing born in?": [
 "Jamaica",
 "Bahamas",
 "United States",
@@ -497,7 +497,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which team selected Kobe Bryant in the NBA Draft?": [
+"This is a Basketball question: Which team selected Kobe Bryant in the NBA Draft?": [
 "Charlotte Hornets",
 "Philadelphia 76ers",
 "Los Angeles Clippers",
@@ -506,7 +506,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: In the NBA, who is known by the nickname of The Mailman?": [
+"This is a Basketball question: In the NBA, who is known by the nickname of The Mailman?": [
 "Karl Malone",
 "Clyde Drexler",
 "David Robinson",
@@ -515,7 +515,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which of these Grants was a Bull?": [
+"This is a Basketball question: Which of these Grants was a Bull?": [
 "Horace",
 "Harvey",
 "Hill",
@@ -524,7 +524,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: In Jordan's 5th game back from his first retirement he scored 55 points against who?": [
+"This is a Basketball question: In Jordan's 5th game back from his first retirement he scored 55 points against who?": [
 "Knicks",
 "Lakers",
 "SuperSonics",
@@ -533,7 +533,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What was Pete Maravich's nickname?": [
+"This is a Basketball question: What was Pete Maravich's nickname?": [
 "Pistol Pete",
 "Mighty Maravich",
 "Pete The Great",
@@ -542,7 +542,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What college did the NBA's Gary Payton go to?": [
+"This is a Basketball question: What college did the NBA's Gary Payton go to?": [
 "Oregon State",
 "UCLA",
 "Kentucky",
@@ -551,7 +551,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which of these Heat draft picks won the NBA Slam Dunk Championship?": [
+"This is a Basketball question: Which of these Heat draft picks won the NBA Slam Dunk Championship?": [
 "Harold Miner",
 "Ronnie Seikaly",
 "Tim James",
@@ -560,7 +560,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: For what fast food chain's commercial did LeBron James and Dwight Howard play horse?": [
+"This is a Basketball question: For what fast food chain's commercial did LeBron James and Dwight Howard play horse?": [
 "McDonalds",
 "Burger King",
 "Taco Bell",
@@ -569,7 +569,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who along with Carmelo Anthony is the Knick team captain for 2013-14?": [
+"This is a Basketball question: Who along with Carmelo Anthony is the Knick team captain for 2013-14?": [
 " Amar'e Stoudemire",
 "Tyson Chandler",
 "Kenyon Martin",
@@ -578,7 +578,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who did Luol Deng average 16.5 points per game for in 2012-13?": [
+"This is a Basketball question: Who did Luol Deng average 16.5 points per game for in 2012-13?": [
 "Chicago",
 "Atlanta and Dallas",
 "Denver",
@@ -587,7 +587,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which of the NBA greats made more playoff game appearances?": [
+"This is a Basketball question: Which of the NBA greats made more playoff game appearances?": [
 "John Havlicek",
 "Charles Barkley",
 "Derrick McKey",
@@ -596,7 +596,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What is Julius Erving's lifetime playoff average for points scored per game?": [
+"This is a Basketball question: What is Julius Erving's lifetime playoff average for points scored per game?": [
 "21.9",
 "14.9",
 "9.4",
@@ -605,7 +605,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What is Steve Kerr's lifetime playoff average for points scored per game?": [
+"This is a Basketball question: What is Steve Kerr's lifetime playoff average for points scored per game?": [
 "4.3",
 "25.9",
 "17.3",
@@ -614,7 +614,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which of these NBA players is the youngest?": [
+"This is a Basketball question: Which of these NBA players is the youngest?": [
 "Anderson Varejao",
 "Kenyon Martin",
 "Mike Miller",
@@ -623,7 +623,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who led the 2009-10 NBA regular season in points per game?": [
+"This is a Basketball question: Who led the 2009-10 NBA regular season in points per game?": [
 "Kevin Durant",
 "LeBron James",
 "Kobe Bryant",
@@ -632,7 +632,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who led the 2009-10 NBA regular season in total points scored?": [
+"This is a Basketball question: Who led the 2009-10 NBA regular season in total points scored?": [
 "Kevin Durant",
 "Kobe Bryant",
 "Carmelo Anthony",
@@ -641,7 +641,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: In 2010, which franchise became the first to reach 3,000 wins?": [
+"This is a Basketball question: In 2010, which franchise became the first to reach 3,000 wins?": [
 "Lakers",
 "Celtics",
 "Pacers",
@@ -650,7 +650,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who won the 2010 NBA Slam Dunk Contest?": [
+"This is a Basketball question: Who won the 2010 NBA Slam Dunk Contest?": [
 "Nate Robinson",
 "Dwight Howard",
 "Tyreke Evans",
@@ -659,7 +659,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who won the Three-Point Shootout at the 2010 NBA All-Star Game?": [
+"This is a Basketball question: Who won the Three-Point Shootout at the 2010 NBA All-Star Game?": [
 "Paul Pierce",
 "Dequan Cook",
 "Ray Allen",
@@ -668,7 +668,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who won the Skills Challenge at the 2010 NBA All-Star Game?": [
+"This is a Basketball question: Who won the Skills Challenge at the 2010 NBA All-Star Game?": [
 "Steve Nash",
 "Dwyane Wade",
 "Chris Paul",
@@ -677,7 +677,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: On November 12, 2009, the New Orleans Hornets fired which head coach?": [
+"This is a Basketball question: On November 12, 2009, the New Orleans Hornets fired which head coach?": [
 "Byron Scott",
 "Michael Curry",
 "John Kuester",
@@ -686,7 +686,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: The Miami lost 24 games in the 2010-11 NBA regular season, how many wins did they have?": [
+"This is a Basketball question: The Miami lost 24 games in the 2010-11 NBA regular season, how many wins did they have?": [
 "58 Wins",
 "34 Wins",
 "40 Wins",
@@ -695,7 +695,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many on-court officials are there in an NBA game?": [
+"This is a Basketball question: How many on-court officials are there in an NBA game?": [
 "3",
 "2",
 "5",
@@ -704,7 +704,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many feet is it from the backboard to the foul line in the NBA?": [
+"This is a Basketball question: How many feet is it from the backboard to the foul line in the NBA?": [
 "15 Feet",
 "12 Feet",
 "6 Feet",
@@ -713,7 +713,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What number did Yao Ming wear for the Houston Rockets in 2004?": [
+"This is a Basketball question: What number did Yao Ming wear for the Houston Rockets in 2004?": [
 "11",
 "68",
 "00",
@@ -722,7 +722,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who was drafted after LeBron James and ahead of Carmelo Anthony?": [
+"This is a Basketball question: Who was drafted after LeBron James and ahead of Carmelo Anthony?": [
 "Darko Milicic",
 "Lucious Harris",
 "Chris Bosh",
@@ -731,7 +731,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What country is Zydrunas Ilgauskas originally from?": [
+"This is a Basketball question: What country is Zydrunas Ilgauskas originally from?": [
 "Lithuania",
 "Serbia",
 "Brazil",
@@ -740,7 +740,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: When was NBA forward Carmelo Anthony born?": [
+"This is a Basketball question: When was NBA forward Carmelo Anthony born?": [
 "1984",
 "1979",
 "1987",
@@ -749,7 +749,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How old was Tim Duncan when he first picked up a basketball to play?": [
+"This is a Basketball question: How old was Tim Duncan when he first picked up a basketball to play?": [
 "14 Years Old",
 "3 Years Old",
 "18 Years Old",
@@ -758,7 +758,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What is the Larry O'Brien Trophy given for?": [
+"This is a Basketball question: What is the Larry O'Brien Trophy given for?": [
 "Winner Of The NBA Finals",
 "Winner Of The Super Bowl",
 "MVP Of Ml Baseball",
@@ -767,7 +767,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which part of Kevin McHale's body did Larry Bird threaten to break in 1985?": [
+"This is a Basketball question: Which part of Kevin McHale's body did Larry Bird threaten to break in 1985?": [
 "Kneecaps",
 "Legs",
 "Face",
@@ -776,7 +776,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What college did Reggie Miller's sister Cheryl play basketball for?": [
+"This is a Basketball question: What college did Reggie Miller's sister Cheryl play basketball for?": [
 "USC",
 "Indiana",
 "UCLA",
@@ -785,7 +785,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which basketball team drafted Robert Parish in 1976?": [
+"This is a Basketball question: Which basketball team drafted Robert Parish in 1976?": [
 "Golden State Warriors",
 "Chicago Bulls",
 "Boston Celtics",
@@ -794,7 +794,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many All Star MVP's did Michael Jordan get?": [
+"This is a Basketball question: How many All Star MVP's did Michael Jordan get?": [
 "3",
 "1",
 "0",
@@ -803,7 +803,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: In what year did Magic Johnson retire and tell the world he tested positive for the HIV virus?": [
+"This is a Basketball question: In what year did Magic Johnson retire and tell the world he tested positive for the HIV virus?": [
 "1991",
 "1993",
 "1990",
@@ -812,7 +812,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Name the NBA star who went to Central Arkansas College?": [
+"This is a Basketball question: Name the NBA star who went to Central Arkansas College?": [
 "Scottie Pippen",
 "Derek Harper",
 "Shawn Kemp",
@@ -821,7 +821,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who won the first NBA Rookie of the Year Award?": [
+"This is a Basketball question: Who won the first NBA Rookie of the Year Award?": [
 "Don Meineke",
 "Michael Jordan",
 "Wilt Chamberlain",
@@ -830,7 +830,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What other athlete attended the same high-school as NBA legend Bill Russell? ": [
+"This is a Basketball question: What other athlete attended the same high-school as NBA legend Bill Russell? ": [
 "Frank Robinson",
 "Mickey Mantle",
 "Sandy Koufax",
@@ -839,7 +839,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Dwyane Wade was selected as cover athlete for what video game?": [
+"This is a Basketball question: Dwyane Wade was selected as cover athlete for what video game?": [
 " EA Sports NBA Live 06",
 "NBA Shoot Out",
 " EA Sports NBA Live 05",
@@ -848,7 +848,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What book did Walt Frazier publish in 2006?": [
+"This is a Basketball question: What book did Walt Frazier publish in 2006?": [
 "The Game Within The Game",
 "Looking Forward",
 "Never Look Back",
@@ -857,7 +857,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who coached the New York Knicks to their first NBA title in 1970?": [
+"This is a Basketball question: Who coached the New York Knicks to their first NBA title in 1970?": [
 "Red Holzman",
 "Red Auerbach",
 "Willis Reed",
@@ -866,7 +866,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which famous athlete shares a December 30 birthday with LeBron James?": [
+"This is a Basketball question: Which famous athlete shares a December 30 birthday with LeBron James?": [
 "Tiger Woods",
 "Venus Williams",
 "Michael Vick",
@@ -875,7 +875,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many combined points did LeBron James and Dwyane Wade score at the 2012 NBA ALL-Star Game?": [
+"This is a Basketball question: How many combined points did LeBron James and Dwyane Wade score at the 2012 NBA ALL-Star Game?": [
 "60 Points",
 "21 Points",
 "89 Points",
@@ -884,7 +884,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many points did LeBron James score in Game seven of the 2013 NBA Finals?": [
+"This is a Basketball question: How many points did LeBron James score in Game seven of the 2013 NBA Finals?": [
 "37 Points",
 "22 Points",
 "44 Points",
@@ -893,7 +893,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many points did Greg Oden score in his first Heat regular season game?": [
+"This is a Basketball question: How many points did Greg Oden score in his first Heat regular season game?": [
 "6 Points",
 "16 Points",
 "0 Points",
@@ -902,7 +902,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who video bombed the Heat players in a White House public service ad?": [
+"This is a Basketball question: Who video bombed the Heat players in a White House public service ad?": [
 "Michelle Obama",
 "President Obama",
 "VP Joe Biden",
@@ -911,7 +911,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Why was J.R. Smith  fined $50,000 for unsportsmanlike conduct in 2014?": [
+"This is a Basketball question: Why was J.R. Smith  fined $50,000 for unsportsmanlike conduct in 2014?": [
 "Untied Players Shoelaces",
 "Cursed At Fans",
 "Elbowed Kevin Durant In Head",
@@ -920,7 +920,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What number uniform does Joel Anthony wear for the 2013-14 Boston Celtics?": [
+"This is a Basketball question: What number uniform does Joel Anthony wear for the 2013-14 Boston Celtics?": [
 "50",
 "40",
 "44",
@@ -929,7 +929,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who was the opponent when Rajon Rondo returned from injury to the Celtics in January 2014?": [
+"This is a Basketball question: Who was the opponent when Rajon Rondo returned from injury to the Celtics in January 2014?": [
 "Lakers",
 "Nets",
 "Nuggets",
@@ -938,7 +938,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What Boston Celtic was named the Eastern Conference Player of the Week in February 2014?": [
+"This is a Basketball question: What Boston Celtic was named the Eastern Conference Player of the Week in February 2014?": [
 "Jared Sullinger",
 "Rajon Rondo",
 "Jeff Green",
@@ -947,7 +947,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who did Dallas select in the 2012 NBA draft?": [
+"This is a Basketball question: Who did Dallas select in the 2012 NBA draft?": [
 "Tyler Zeller",
 "John Henson",
 "Andrew Nicholson",
@@ -956,7 +956,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Which nickname has Russell Westbrook been tagged with?": [
+"This is a Basketball question: Which nickname has Russell Westbrook been tagged with?": [
 "Cat",
 "Hondo",
 "The Monster",
@@ -965,7 +965,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many triple-doubles did LeBron James have during the 2009-10 NBA regular season?": [
+"This is a Basketball question: How many triple-doubles did LeBron James have during the 2009-10 NBA regular season?": [
 "5",
 "10",
 "8",
@@ -974,7 +974,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who won the Shooting Stars Competition at the 2010 NBA All-Star Game?": [
+"This is a Basketball question: Who won the Shooting Stars Competition at the 2010 NBA All-Star Game?": [
 "Texas",
 "Los Angeles",
 "Atlanta",
@@ -983,7 +983,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What is Monta Ellis' first name short for?": [
+"This is a Basketball question: What is Monta Ellis' first name short for?": [
 "Montana",
 "Montel",
 "Maurice",
@@ -992,7 +992,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What was Deron Williams' major in college?": [
+"This is a Basketball question: What was Deron Williams' major in college?": [
 "Sports management",
 "History",
 "Pre-med",
@@ -1001,7 +1001,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What first round number pick was guard Steve Nash in the NBA Draft?": [
+"This is a Basketball question: What first round number pick was guard Steve Nash in the NBA Draft?": [
 "15th",
 "2nd",
 "12th",
@@ -1010,7 +1010,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who was drafted number one in the 2004 NBA Draft?": [
+"This is a Basketball question: Who was drafted number one in the 2004 NBA Draft?": [
 "Dwight Howard",
 "LeBron James",
 "Richard Jefferson",
@@ -1019,7 +1019,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many years did Larry Bird coach the Indiana Pacers?": [
+"This is a Basketball question: How many years did Larry Bird coach the Indiana Pacers?": [
 "3",
 "2",
 "1",
@@ -1028,7 +1028,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: How many points did Michael Jordan score in the 1992 Gold Medal Game?": [
+"This is a Basketball question: How many points did Michael Jordan score in the 1992 Gold Medal Game?": [
 "22",
 "23",
 "21",
@@ -1037,7 +1037,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who was the hero of the 1987 NCAA Finals?": [
+"This is a Basketball question: Who was the hero of the 1987 NCAA Finals?": [
 "Keith Smart",
 "Steve Alford",
 "Rony Seikly",
@@ -1046,7 +1046,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What are the New York Knick dancers called?": [
+"This is a Basketball question: What are the New York Knick dancers called?": [
 "Knick City Dancers",
 "Knickerbockers' Ladies",
 "Knick At Night Girls",
@@ -1055,7 +1055,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What number did Shaq wear for the Miami Heat?": [
+"This is a Basketball question: What number did Shaq wear for the Miami Heat?": [
 "#32",
 "#34",
 "#1",
@@ -1064,7 +1064,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: Who replaced Stan Van Gundy as Miami Heat head coach on December 12, 2005?": [
+"This is a Basketball question: Who replaced Stan Van Gundy as Miami Heat head coach on December 12, 2005?": [
 "Pat Riley",
 "Jeff Van Gundy",
 "Phil Jackson",
@@ -1073,7 +1073,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: In 2013, LeBron James became the first in the NBA to have 30+ points and shoot over 60% for how many games in a row? ": [
+"This is a Basketball question: In 2013, LeBron James became the first in the NBA to have 30+ points and shoot over 60% for how many games in a row? ": [
 "6 Consecutive Games",
 "12 Consecutive Games",
 "3 Consecutive Games",
@@ -1082,7 +1082,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: On October 30, 2013, in his Mavs debut how many points did Monta Ellis score?": [
+"This is a Basketball question: On October 30, 2013, in his Mavs debut how many points did Monta Ellis score?": [
 "32 Points",
 "12 Points",
 "42 Points",
@@ -1091,7 +1091,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Basketball question: What was the fine Mark Cuban was given for confronting officials after a Mavs' loss in January 2014?": [
+"This is a Basketball question: What was the fine Mark Cuban was given for confronting officials after a Mavs' loss in January 2014?": [
 "$100,000",
 "Banned For 10 Games",
 "$10,000",
@@ -1100,7 +1100,7 @@ var questions = [
     },
 
     {
-"Okay here's a  College Football question: In 2006, what Hawaii quarterback finished sixth in the Heisman Trophy voting?": [
+"This is a College Football question: In 2006, what Hawaii quarterback finished sixth in the Heisman Trophy voting?": [
 "Colt Brennan",
 "Timmy Chang",
 "Chad Owens",
@@ -1109,7 +1109,7 @@ var questions = [
     },
 
     {
-"Okay here's a  College Football question: What Kentucky quarterback was named MVP of the 2006 Music City Bowl?": [
+"This is a College Football question: What Kentucky quarterback was named MVP of the 2006 Music City Bowl?": [
 "Andre Woodson",
 "Keenan Burton",
 "Rafael Little",
@@ -1118,7 +1118,7 @@ var questions = [
     },
 
     {
-"Okay here's a  College Football question: Who quarterbacked for Miami (FL) in the 2004 season?": [
+"This is a College Football question: Who quarterbacked for Miami (FL) in the 2004 season?": [
 "Brock Berlin",
 "Bruce Gradkowski",
 "Jordan Palmer",
@@ -1127,7 +1127,7 @@ var questions = [
     },
 
     {
-"Okay here's a  College Football question: USC running back Reggie Bush rushed for how many yards in his final year as a Trojan?": [
+"This is a College Football question: USC running back Reggie Bush rushed for how many yards in his final year as a Trojan?": [
 "1,740",
 "2,232",
 "2,324",
@@ -1136,7 +1136,7 @@ var questions = [
     },
 
     {
-"Okay here's a  College Football question: What team stunned OSU 23 - 10 in the 1976 Rose Bowl?": [
+"This is a College Football question: What team stunned OSU 23 - 10 in the 1976 Rose Bowl?": [
 "UCLA",
 "USC",
 "Nebraska",
@@ -1145,7 +1145,7 @@ var questions = [
     },
 
     {
-"Okay here's a  College Football question: Who was a consensus All-American in 1977 and 1978 for LSU?": [
+"This is a College Football question: Who was a consensus All-American in 1977 and 1978 for LSU?": [
 "Charles Alexander",
 "Dave Jaynes",
 "Steve McNair",
@@ -1154,7 +1154,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which New York Giants kicker scored two field goals during Super Bowl XLVI in January 2012?": [
+"This is a Football question: Which New York Giants kicker scored two field goals during Super Bowl XLVI in January 2012?": [
 "Lawrence Tynes",
 "Mason Crosby",
 "Connor Barth",
@@ -1163,7 +1163,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which was the only team to suffer two shutouts in the 2011 regular NFL season?": [
+"This is a Football question: Which was the only team to suffer two shutouts in the 2011 regular NFL season?": [
 "St. Louis Rams",
 "Minnesota Vikings",
 "Tampa Bay Buccaneers",
@@ -1172,7 +1172,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who did Tim Tebow replace as starting QB for the Broncos in game 7 of the 2011 season?": [
+"This is a Football question: Who did Tim Tebow replace as starting QB for the Broncos in game 7 of the 2011 season?": [
 "Kyle Orton",
 "Blaine Gabbert",
 "Matt Moore",
@@ -1181,7 +1181,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who was the starting quarterback for the Minnesota Vikings at the beginning of the 2011 season?": [
+"This is a Football question: Who was the starting quarterback for the Minnesota Vikings at the beginning of the 2011 season?": [
 "Donovan McNabb",
 "D'Aundre Reed",
 "Mistral Raymond",
@@ -1190,7 +1190,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What position did Junior Seau play for the San Diego Chargers?": [
+"This is a Football question: What position did Junior Seau play for the San Diego Chargers?": [
 "Linebacker",
 "Tight End",
 "Quarterback",
@@ -1199,7 +1199,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What veteran quarterback managed the 2007 Detroit Lions offense?": [
+"This is a Football question: What veteran quarterback managed the 2007 Detroit Lions offense?": [
 "Jon Kitna",
 "Vinny Testaverde",
 "Mark Brunell",
@@ -1208,7 +1208,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who was the Dallas Cowboys' leading rusher in 2008?": [
+"This is a Football question: Who was the Dallas Cowboys' leading rusher in 2008?": [
 "Marion Barber",
 "Tony Romo",
 "Brad Johnson",
@@ -1217,7 +1217,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Whose number 74 jersey was retired by the Tennessee Titans in 2002?": [
+"This is a Football question: Whose number 74 jersey was retired by the Tennessee Titans in 2002?": [
 "Bruce Matthews",
 "Steve Tasker",
 "Mark Stepnoski",
@@ -1226,7 +1226,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which Chicago Bears player was also a track star and Olympian?": [
+"This is a Football question: Which Chicago Bears player was also a track star and Olympian?": [
 "Willie Gault",
 "Walter Payton",
 "Ricky Manning",
@@ -1235,7 +1235,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What were the Cleveland Browns named after?": [
+"This is a Football question: What were the Cleveland Browns named after?": [
 "Head Coach Paul Brown",
 "The Owner's Dog",
 "The Color Of The Football",
@@ -1244,7 +1244,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What year did the Cleveland Browns go on hiatus from the NFL?": [
+"This is a Football question: What year did the Cleveland Browns go on hiatus from the NFL?": [
 "1996",
 "1990",
 "2001",
@@ -1253,7 +1253,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which NFL team won Super Bowl XLI in 2007?": [
+"This is a Football question: Which NFL team won Super Bowl XLI in 2007?": [
 "Indianapolis Colts",
 "Chicago Bears",
 "New England Patriots",
@@ -1262,7 +1262,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What is the position of the player who snaps the ball in football?": [
+"This is a Football question: What is the position of the player who snaps the ball in football?": [
 "Center",
 "Guard",
 "Running Back",
@@ -1271,7 +1271,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many periods are in a regulation NFL game?": [
+"This is a Football question: How many periods are in a regulation NFL game?": [
 "Four",
 "Three",
 "Nine",
@@ -1280,7 +1280,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many timeouts are NFL teams given each half?": [
+"This is a Football question: How many timeouts are NFL teams given each half?": [
 "Three",
 "Two",
 "Four",
@@ -1289,7 +1289,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which of the following colors is not found in the logo for the NFL's Buffalo Bills?": [
+"This is a Football question: Which of the following colors is not found in the logo for the NFL's Buffalo Bills?": [
 "Green",
 "Blue",
 "White",
@@ -1298,7 +1298,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What is the name of a backwards pass in football?": [
+"This is a Football question: What is the name of a backwards pass in football?": [
 "Lateral",
 "Chuck",
 "Unpass",
@@ -1307,7 +1307,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who did student football fans at UCLA root for?": [
+"This is a Football question: Who did student football fans at UCLA root for?": [
 "Bruins",
 "Hokies",
 "Boilermakers",
@@ -1316,7 +1316,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What team drafted Heisman Trophy winner Reggie Bush?": [
+"This is a Football question: What team drafted Heisman Trophy winner Reggie Bush?": [
 "New Orleans Saints",
 "San Francisco 49ers",
 "New York Jets",
@@ -1325,7 +1325,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which Super Bowl team included Burnett, Siragusa and Gash?": [
+"This is a Football question: Which Super Bowl team included Burnett, Siragusa and Gash?": [
 "Baltimore Ravens",
 "Dallas Cowboys",
 "New England Patriots",
@@ -1334,7 +1334,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What Super Bowl team included Garner, Gannon and Rice?": [
+"This is a Football question: What Super Bowl team included Garner, Gannon and Rice?": [
 "Oakland Raiders",
 "Tampa Bay Bucs",
 "Carolina Panthers",
@@ -1343,7 +1343,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who retired in 2000 as the all time sack leader in the NFL, a record which has since been broken?": [
+"This is a Football question: Who retired in 2000 as the all time sack leader in the NFL, a record which has since been broken?": [
 "Reggie White",
 "Deacon Jones",
 "Bruce Smith",
@@ -1352,7 +1352,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who won the AP Coach of the Year award for the 2011 NFL season?": [
+"This is a Football question: Who won the AP Coach of the Year award for the 2011 NFL season?": [
 "Jim Harbaugh",
 "Ray Rhodes",
 "Wayne Fontes",
@@ -1361,7 +1361,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which New York Giants player scored the first touchdown of Super Bowl XLVI in January 2012?": [
+"This is a Football question: Which New York Giants player scored the first touchdown of Super Bowl XLVI in January 2012?": [
 "Victor Cruz",
 "Kareem McKenzie",
 "Henry Hynoski",
@@ -1370,7 +1370,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who was the starting quarterback for the Redskins at the beginning of the 2011 season?": [
+"This is a Football question: Who was the starting quarterback for the Redskins at the beginning of the 2011 season?": [
 "Rex Grossman",
 "Oshiomogho Atogwe",
 "Jabar Gaffney",
@@ -1379,7 +1379,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who is known as the Voice of the Kansas City Chiefs?": [
+"This is a Football question: Who is known as the Voice of the Kansas City Chiefs?": [
 "Mitch Holthus",
 "Hank Stram",
 "Kevin Harlan",
@@ -1388,7 +1388,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which punter did the Jacksonville Jaguars sign in March 2007?": [
+"This is a Football question: Which punter did the Jacksonville Jaguars sign in March 2007?": [
 "Tony Yelk",
 "Reggie Nelson",
 "Josh Gattis",
@@ -1397,7 +1397,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Lance Alworth played how many seasons with the San Diego Chargers?": [
+"This is a Football question: Lance Alworth played how many seasons with the San Diego Chargers?": [
 "11",
 "15",
 "Five",
@@ -1406,7 +1406,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which Ravens player had an assault trial in June of 2005?": [
+"This is a Football question: Which Ravens player had an assault trial in June of 2005?": [
 "Terrell Suggs",
 "Will Demps",
 "Ed Reed",
@@ -1415,7 +1415,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Ravens player Ray Lewis won Defensive Player of the Year how many times from 2000 to 2012?": [
+"This is a Football question: Ravens player Ray Lewis won Defensive Player of the Year how many times from 2000 to 2012?": [
 "2",
 "3",
 "1",
@@ -1424,7 +1424,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which Carolina Panthers running back was killed by his wife in 2000?": [
+"This is a Football question: Which Carolina Panthers running back was killed by his wife in 2000?": [
 "Fred Lane",
 "Patrick Jeffers",
 "Chris Weinkie",
@@ -1433,7 +1433,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who was the Rams' first draft pick in St. Louis?": [
+"This is a Football question: Who was the Rams' first draft pick in St. Louis?": [
 "Kevin Carter",
 "Sean Gilbert",
 "Keith Lyle",
@@ -1442,7 +1442,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many receptions did Deion Branch have in Super Bowl XXXIX?": [
+"This is a Football question: How many receptions did Deion Branch have in Super Bowl XXXIX?": [
 "11 Receptions",
 "22 Receptions",
 "8 Receptions",
@@ -1451,7 +1451,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: In which year did Brett Favre wear the #04 jersey for the Atlanta Falcons?": [
+"This is a Football question: In which year did Brett Favre wear the #04 jersey for the Atlanta Falcons?": [
 "1991",
 "1992",
 "1990",
@@ -1460,7 +1460,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which of these NFL quarterbacks passed for the most yards in 2004?": [
+"This is a Football question: Which of these NFL quarterbacks passed for the most yards in 2004?": [
 "Daunte Culpepper",
 "Drew Bledsoe",
 "A.J. Feeley",
@@ -1469,7 +1469,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which quarterback did not attend Florida State University?": [
+"This is a Football question: Which quarterback did not attend Florida State University?": [
 "Bill Musgrave",
 "Charlie Ward",
 "Brad Johnson",
@@ -1478,7 +1478,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many times in its history, through 2013, has the NFL cancelled a season entirely?": [
+"This is a Football question: How many times in its history, through 2013, has the NFL cancelled a season entirely?": [
 "One",
 "Three",
 "Five",
@@ -1487,7 +1487,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which former football star promoted Levitra during the 2004 Super Bowl?": [
+"This is a Football question: Which former football star promoted Levitra during the 2004 Super Bowl?": [
 "Mike Ditka",
 "Joe Montana",
 "Mean Joe Greene",
@@ -1496,7 +1496,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What Super Bowl team included Smart, Manning and Davis?": [
+"This is a Football question: What Super Bowl team included Smart, Manning and Davis?": [
 "Carolina Panthers",
 "New York Giants",
 "Baltimore Ravens",
@@ -1505,7 +1505,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who did student football fans at Marshall root for?": [
+"This is a Football question: Who did student football fans at Marshall root for?": [
 "Thundering Herd",
 "Longhorns",
 "Commodores",
@@ -1514,7 +1514,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which Atlanta Falcons player was known by the nickname Mr. Falcon?": [
+"This is a Football question: Which Atlanta Falcons player was known by the nickname Mr. Falcon?": [
 "Tommy Nobis",
 "Michael Vick",
 "Steve Bartkowski",
@@ -1523,7 +1523,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: In what year did the Denver Broncos play their final game at Mile High Stadium?": [
+"This is a Football question: In what year did the Denver Broncos play their final game at Mile High Stadium?": [
 "2000",
 "2001",
 "1999",
@@ -1532,7 +1532,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many yards did Kurt Warner throw for in Super Bowl XXXIV?": [
+"This is a Football question: How many yards did Kurt Warner throw for in Super Bowl XXXIV?": [
 "414 Yards",
 "320 Yards",
 "139 Yards",
@@ -1541,7 +1541,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many Super Bowls did the San Francisco 49ers win with George Seifert as head coach?": [
+"This is a Football question: How many Super Bowls did the San Francisco 49ers win with George Seifert as head coach?": [
 "Two",
 "None",
 "One",
@@ -1550,7 +1550,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What year did Brett Favre play his first game for the Packers?": [
+"This is a Football question: What year did Brett Favre play his first game for the Packers?": [
 "1992",
 "1995",
 "1988",
@@ -1559,7 +1559,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which of these coaches won the most Super Bowls?": [
+"This is a Football question: Which of these coaches won the most Super Bowls?": [
 "Bill Walsh",
 "John Madden",
 "Tom Landry",
@@ -1568,7 +1568,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which was the first domed stadium to host a Super Bowl?": [
+"This is a Football question: Which was the first domed stadium to host a Super Bowl?": [
 "Superdome",
 "Metrodome",
 "Astrodome",
@@ -1577,7 +1577,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which player scored the first points in Super Bowl history?": [
+"This is a Football question: Which player scored the first points in Super Bowl history?": [
 "Max McGee",
 "Elijah Pitts",
 "Mike Garrett",
@@ -1586,7 +1586,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Who of the following has the most Super Bowl rings?": [
+"This is a Football question: Who of the following has the most Super Bowl rings?": [
 "Joe Montana",
 "O.J. Simpson",
 "Troy Aikman",
@@ -1595,7 +1595,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which sportscaster wrote I Never Played The Game?": [
+"This is a Football question: Which sportscaster wrote I Never Played The Game?": [
 "Howard Cosell",
 "John Madden",
 "Brent Musburger",
@@ -1604,7 +1604,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: In 2012 who was the Dolphins offensive coordinator?": [
+"This is a Football question: In 2012 who was the Dolphins offensive coordinator?": [
 "Mike Sherman",
 "Gary Kubiak",
 " Mike McCarthy",
@@ -1613,7 +1613,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: The Baltimore Colts were champions of what division in 1968?": [
+"This is a Football question: The Baltimore Colts were champions of what division in 1968?": [
 "Coastal Division",
 "Eastern Division",
 "Western Division",
@@ -1622,7 +1622,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many touchdown passes did Eli Manning throw in the 2011-12 Divisional playoff game against Green Bay?": [
+"This is a Football question: How many touchdown passes did Eli Manning throw in the 2011-12 Divisional playoff game against Green Bay?": [
 "Three",
 "Zero",
 "Six",
@@ -1631,7 +1631,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: In which of the following years did the Cincinnati Bengals not finish 8-8?": [
+"This is a Football question: In which of the following years did the Cincinnati Bengals not finish 8-8?": [
 "1991",
 "2004",
 "1996",
@@ -1640,7 +1640,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: On the 1972 Dolphins, what position did Jim Kiick play?": [
+"This is a Football question: On the 1972 Dolphins, what position did Jim Kiick play?": [
 "Running Back",
 "Fullback",
 "Place Kicker",
@@ -1649,7 +1649,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: In what year did the Atlanta Falcons switch to a black helmet?": [
+"This is a Football question: In what year did the Atlanta Falcons switch to a black helmet?": [
 "1990",
 "1977",
 "1969",
@@ -1658,7 +1658,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What number did Eagle Irv Cross wear on his uniform?": [
+"This is a Football question: What number did Eagle Irv Cross wear on his uniform?": [
 "27",
 "67",
 "85",
@@ -1667,7 +1667,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which of these NFL players rushed for the most yards in 2004?": [
+"This is a Football question: Which of these NFL players rushed for the most yards in 2004?": [
 "Nick Goings",
 "Marshall Faulk",
 "Julius Jones",
@@ -1676,7 +1676,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How many yards did Tiki Barber rush for in Super Bowl XXXV?": [
+"This is a Football question: How many yards did Tiki Barber rush for in Super Bowl XXXV?": [
 "49 Yards",
 "123 Yards",
 "110 Yards",
@@ -1685,7 +1685,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What is the name of the Packers theme song?": [
+"This is a Football question: What is the name of the Packers theme song?": [
 "Go, You Packer Go!",
 "Packers Forever!",
 "Pack It Tight!",
@@ -1694,7 +1694,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What was the last season the Pittsburgh Steelers made the playoffs under Chuck Noll?": [
+"This is a Football question: What was the last season the Pittsburgh Steelers made the playoffs under Chuck Noll?": [
 "1989",
 "1980",
 "1984",
@@ -1703,7 +1703,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: How old was Joe Montana when he won his first Super Bowl?": [
+"This is a Football question: How old was Joe Montana when he won his first Super Bowl?": [
 "25",
 "30",
 "23",
@@ -1712,7 +1712,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: What year was the first Heisman Trophy presented?": [
+"This is a Football question: What year was the first Heisman Trophy presented?": [
 "1935",
 "1958",
 "1929",
@@ -1721,7 +1721,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which team won a Super Bowl first?": [
+"This is a Football question: Which team won a Super Bowl first?": [
 "New York Jets",
 "Baltimore Colts",
 "Dallas Cowboys",
@@ -1730,7 +1730,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Football question: Which team played in a Super Bowl first?": [
+"This is a Football question: Which team played in a Super Bowl first?": [
 "Minnesota Vikings",
 "Washington Redskins",
 "Dallas Cowboys",
@@ -1739,7 +1739,7 @@ var questions = [
     },
 
     {
-"Okay here's a  General Sports question: What sport is Tracy Austin known for?": [
+"This is a General Sports question: What sport is Tracy Austin known for?": [
 "Tennis",
 "Golf",
 "Basketball",
@@ -1748,7 +1748,7 @@ var questions = [
     },
 
     {
-"Okay here's a  General Sports question: In what professional sport is Sheryl Swoops a star?": [
+"This is a General Sports question: In what professional sport is Sheryl Swoops a star?": [
 "Basketball",
 "Tennis",
 "Golf",
@@ -1757,7 +1757,7 @@ var questions = [
     },
 
     {
-"Okay here's a  General Sports question: Who did Riddick Bowe beat to become boxing's Heavyweight Champion?": [
+"This is a General Sports question: Who did Riddick Bowe beat to become boxing's Heavyweight Champion?": [
 "Holyfield",
 "Holmes",
 "Spinks",
@@ -1766,7 +1766,7 @@ var questions = [
     },
 
     {
-"Okay here's a  General Sports question: Bill France Sr. is famous for his contributions to which sport?": [
+"This is a General Sports question: Bill France Sr. is famous for his contributions to which sport?": [
 "Stock Car Racing",
 "Downhill Skiing",
 "Skeet Shooting",
@@ -1775,7 +1775,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Hockey question: Approximately how many games were lost due to the lockout during the 2004-05 NHL season?": [
+"This is a Hockey question: Approximately how many games were lost due to the lockout during the 2004-05 NHL season?": [
 "1,230",
 "100",
 "1,500",
@@ -1784,7 +1784,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Hockey question: From 1919 until 1927, what was the name of the Toronto pro hockey team?": [
+"This is a Hockey question: From 1919 until 1927, what was the name of the Toronto pro hockey team?": [
 "St. Patricks",
 "Arenas",
 "Blueshirts",
@@ -1793,7 +1793,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Hockey question: What year did the Pittsburgh Penguins wear the black-and-gold for the first time?": [
+"This is a Hockey question: What year did the Pittsburgh Penguins wear the black-and-gold for the first time?": [
 "1980",
 "1978",
 "1982",
@@ -1802,7 +1802,7 @@ var questions = [
     },
 
     {
-"Okay here's a  Hockey question: What year did Pittsburgh's Civic Arena play host to the NHL All-Star Game?": [
+"This is a Hockey question: What year did Pittsburgh's Civic Arena play host to the NHL All-Star Game?": [
 "1990",
 "1991",
 "1989",
@@ -1822,9 +1822,15 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 
+<<<<<<< HEAD
 //     if (event.session.application.applicationId !== "*****") {
 //         context.fail("Invalid Application ID");
 //      }
+=======
+   if (event.session.application.applicationId !== "*****") {
+         context.fail("Invalid Application ID");
+      }
+>>>>>>> origin/EditingKeys
 
         if (event.session.new) {
             onSessionStarted({requestId: event.request.requestId}, event.session);
@@ -1932,7 +1938,7 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 var ANSWER_COUNT = 4;
 var GAME_LENGTH = 5;
-var CARD_TITLE = "Stump the Chump"; // Be sure to change this for your skill.
+var CARD_TITLE = "Stump the Chump"; 
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
@@ -2061,16 +2067,16 @@ function handleAnswerRequest(intent, session, callback) {
 
         if (answerSlotValid && parseInt(intent.slots.Answer.value) == correctAnswerIndex) {
             currentScore++;
-            speechOutputAnalysis = "Nice work! ";
+            speechOutputAnalysis = "right answer. Nice work! ";
         } else {
             if (!userGaveUp) {
-                speechOutputAnalysis = "I'm sorry. "
+                speechOutputAnalysis = "wrong answer. I'm sorry. "
             }
-            speechOutputAnalysis += "The correct answer was " + correctAnswerIndex + ": " + correctAnswerText + "Better luck next time. ";
+            speechOutputAnalysis += "The answer was " + correctAnswerIndex + ": " + correctAnswerText + ".  Better luck next time. ";
         }
         // if currentQuestionIndex is 4, we've reached 5 questions (zero-indexed) and can exit the game session
         if (currentQuestionIndex == GAME_LENGTH - 1) {
-            speechOutput = userGaveUp ? "" : "Giving up? The correct answer was ";
+            speechOutput = userGaveUp ? "" : "That's the ";
             speechOutput += speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
                 + GAME_LENGTH.toString() + " questions correct. Come back again to try and Stump the Chump!";
             callback(session.attributes,
@@ -2087,7 +2093,7 @@ function handleAnswerRequest(intent, session, callback) {
             for (var i = 0; i < ANSWER_COUNT; i++) {
                 repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
             }
-            speechOutput += userGaveUp ? "" : "That answer is ";
+            speechOutput += userGaveUp ? "" : "That is the ";
             speechOutput += speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
 
             sessionAttributes = {
